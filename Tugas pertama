@@ -1,0 +1,66 @@
+1. Internet of Things (IoT) merujuk pada jaringan perangkat fisik di seluruh dunia yang terhubung ke internet, mengumpulkan dan berbagi data. Konsep perangkat yang terhubung telah ada sejak tahun 1832, ketika telegraf elektromagnetik memungkinkan komunikasi langsung antara dua mesin melalui transfer sinyal listrik. Namun, istilah "Internet of Things" pertama kali diperkenalkan oleh Kevin Ashton pada tahun 1999. IoT memungkinkan perangkat untuk terhubung, mengumpulkan, dan mentransfer data melalui jaringan, serta melakukan tindakan secara otomatis melalui program tertentu. Perangkat IoT telah diterapkan dalam berbagai bidang, seperti rumah tangga, industri, kesehatan, transportasi, dan lainnya. Seiring dengan perkembangan teknologi, IoT diprediksi akan terus mendominasi dunia dan mengubah cara bisnis dijalankan, cara hidup, serta cara masyarakat berfungsi secara umum.
+
+2.
+[1] https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0268-2
+[2] https://link.springer.com/chapter/10.1007/978-3-642-40403-0_7
+[3] https://en.wikipedia.org/wiki/Internet_of_things
+[4] https://www.ibm.com/topics/internet-of-things
+[5] https://docs.aws.amazon.com/iot/latest/apireference/Welcome.html
+
+3 dan 4. Kebutuhan IoT dapat dikelompokkan berdasarkan bidang penerapannya, yaitu:
+
+**Kebutuhan di bidang rumah tangga**
+
+Kebutuhan IoT di bidang rumah tangga meliputi:
+
+    **Keamanan**, seperti sensor gerak, kamera CCTV, dan alarm.
+    **Kenyamanan**, seperti lampu pintar, termostat pintar, dan dispenser pintar.
+    **Efisiensi**, seperti perangkat hemat energi dan sistem pengelolaan limbah.
+
+**Kebutuhan di bidang transportasi**
+
+Kebutuhan IoT di bidang transportasi meliputi:
+
+    **Keamanan**, seperti sistem peringatan tabrakan, sistem navigasi, dan sistem parkir pintar.
+    **Efisiensi**, seperti sistem manajemen lalu lintas dan sistem transportasi umum yang terintegrasi.
+
+**Kebutuhan di bidang industri**
+
+Kebutuhan IoT di bidang industri meliputi:
+
+    **Produksi**, seperti sistem pemantauan mesin, sistem otomatisasi, dan sistem manajemen rantai pasokan.
+    **Keamanan**, seperti sistem pemantauan lingkungan dan sistem keamanan pabrik.
+    **Efisiensi**, seperti sistem manajemen energi dan sistem manajemen limbah.
+
+**Kebutuhan di bidang kesehatan**
+
+Kebutuhan IoT di bidang kesehatan meliputi:
+
+    **Pemantauan kesehatan**, seperti perangkat wearable yang dapat memantau aktivitas fisik, detak jantung, dan pola tidur.
+    **Diagnosis dan perawatan**, seperti perangkat yang dapat mendeteksi penyakit dan memberikan perawatan jarak jauh.
+
+**Kebutuhan di bidang pertanian**
+
+Kebutuhan IoT di bidang pertanian meliputi:
+
+    **Pemantauan tanaman**, seperti sensor yang dapat mengukur kelembaban tanah, suhu udara, dan tingkat kesuburan tanah.
+    **Pengairan**, seperti sistem irigasi yang dapat diatur secara otomatis.
+    **Pemberantasan hama**, seperti sistem pemantauan hama yang dapat mendeteksi hama dan memberikan peringatan dini.
+
+Selain itu, kebutuhan IoT juga dapat dikelompokkan berdasarkan karakteristiknya, yaitu:
+
+**Kebutuhan dasar**
+
+Kebutuhan dasar IoT meliputi perangkat-perangkat yang diperlukan untuk menghubungkan perangkat IoT ke internet, seperti modem, router, dan gateway.
+
+**Kebutuhan aplikasi**
+
+Kebutuhan aplikasi IoT meliputi perangkat-perangkat yang diperlukan untuk menjalankan aplikasi IoT, seperti sensor, aktuator, dan perangkat lunak.
+
+**Kebutuhan keamanan**
+
+Kebutuhan keamanan IoT meliputi perangkat-perangkat yang diperlukan untuk melindungi perangkat IoT dari serangan keamanan, seperti firewall, antivirus, dan enkripsi.
+
+**Kebutuhan manajemen**
+
+Kebutuhan manajemen IoT meliputi perangkat-perangkat yang diperlukan untuk mengelola perangkat IoT, seperti sistem manajemen perangkat dan sistem manajemen data.
