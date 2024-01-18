@@ -1,11 +1,10 @@
 1. Internet of Things (IoT) merujuk pada jaringan perangkat fisik di seluruh dunia yang terhubung ke internet, mengumpulkan dan berbagi data. Konsep perangkat yang terhubung telah ada sejak tahun 1832, ketika telegraf elektromagnetik memungkinkan komunikasi langsung antara dua mesin melalui transfer sinyal listrik. Namun, istilah "Internet of Things" pertama kali diperkenalkan oleh Kevin Ashton pada tahun 1999. IoT memungkinkan perangkat untuk terhubung, mengumpulkan, dan mentransfer data melalui jaringan, serta melakukan tindakan secara otomatis melalui program tertentu. Perangkat IoT telah diterapkan dalam berbagai bidang, seperti rumah tangga, industri, kesehatan, transportasi, dan lainnya. Seiring dengan perkembangan teknologi, IoT diprediksi akan terus mendominasi dunia dan mengubah cara bisnis dijalankan, cara hidup, serta cara masyarakat berfungsi secara umum.
 
-2.
-[1] https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0268-2
-[2] https://link.springer.com/chapter/10.1007/978-3-642-40403-0_7
-[3] https://en.wikipedia.org/wiki/Internet_of_things
-[4] https://www.ibm.com/topics/internet-of-things
-[5] https://docs.aws.amazon.com/iot/latest/apireference/Welcome.html
+2. Berikut adalah gambaran sederhana dari referensi model IoT:
+Perangkat IoT
+   -> Gateway IoT
+   -> Cloud
+   -> Aplikasi IoT
 
 3 dan 4. Kebutuhan IoT dapat dikelompokkan berdasarkan bidang penerapannya, yaitu:
 
